@@ -1,2 +1,2 @@
-# HELLO_WORLD
+# HELLO
 This is an easy Rust programme.
